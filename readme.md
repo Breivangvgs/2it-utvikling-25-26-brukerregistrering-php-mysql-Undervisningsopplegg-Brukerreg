@@ -12,8 +12,6 @@ Du skal bruke:
 
 Målet er å forstå hele flyten fra en bruker fyller ut et skjema, til dataene lagres sikkert i en database og brukeren får tilgang til et medlemsområde.
 
-Oppgaven passer godt for vg2-elever og dekker flere sentrale temaer i utviklingsfaget, som databaser, informasjonssikkerhet, brukerstyring og enkel systemutvikling.
-
 ---
 
 ## Før du starter
